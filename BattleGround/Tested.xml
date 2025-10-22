@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Suite">
+<listeners>
+<listener class-name="playground.Listners_Sample"></listener>
+</listeners>
+<test name="Test Case">
+<classes>
+<class name="playground.SuperOne"></class>
+</classes>
+</test>
+</suite>
+
+<!-- <class name="playground.SuperOne"></class>
+<class name="playground.Priority_Sample"></class>
+<class name="playground.SkipTestCase_Sample"></class>
+<class name="playground.DependencyManagement_Sample"></class>
+<class name="playground.SuiteCase_Sample"></class> -->
+
+
+<!-- <parameter name="Name" value="Vignesh"></parameter>
+<classes>
+<class name="playground.Parametrization_Sample"></class>
+</classes -->
+
+<!-- <groups>
+<run>
+<exclude name="Sony"></exclude>
+</run>
+</groups>
+<classes>
+<class name="playground.Grouping_Sample"></class>
+</classes> -->
+
+<!-- <suite name="Test Suite" verbose="2" parallel="methods" thread-count="2">
+<test name="Test Case">
+<classes>
+<class name="playground.PrallelTesting_Sample"></class>
+</classes>
+</test>
+</suite> -->

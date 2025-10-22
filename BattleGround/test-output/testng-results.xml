@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-22T19:36:13 IST" name="Test Suite" finished-at="2025-07-22T19:36:13 IST" duration-ms="141">
+    <groups>
+    </groups>
+    <test started-at="2025-07-22T19:36:13 IST" name="Test Case" finished-at="2025-07-22T19:36:13 IST" duration-ms="141">
+      <class name="playground.SuperOne">
+        <test-method signature="caseOne()[pri:0, instance:playground.SuperOne@741a8937]" started-at="2025-07-22T19:36:13 IST" name="caseOne" finished-at="2025-07-22T19:36:13 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseOne -->
+        <test-method signature="caseThree()[pri:0, instance:playground.SuperOne@741a8937]" started-at="2025-07-22T19:36:13 IST" name="caseThree" finished-at="2025-07-22T19:36:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseThree -->
+        <test-method signature="caseTwo()[pri:0, instance:playground.SuperOne@741a8937]" started-at="2025-07-22T19:36:13 IST" name="caseTwo" finished-at="2025-07-22T19:36:13 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseTwo -->
+      </class> <!-- playground.SuperOne -->
+    </test> <!-- Test Case -->
+  </suite> <!-- Test Suite -->
+</testng-results>
